@@ -1,5 +1,6 @@
 # SSS
-`Simple Static Server`, very simple static server based on nodejs
+##### Simple Static Server
+Very simple static server based on nodejs
 
 # Install
 ```

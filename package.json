@@ -1,0 +1,9 @@
+{
+  "name": "SSS",
+  "description": "Simple Static Server, very simple static server based on nodejs",
+  "version": "0.1.0",
+  "dependencies": {
+    "connect": "*",
+    "serve-static": "*"
+  }
+}

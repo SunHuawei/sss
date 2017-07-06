@@ -2,6 +2,9 @@
   "name": "SSS",
   "description": "Simple Static Server, very simple static server based on nodejs",
   "version": "0.1.0",
+  "bin": {
+    "sss": "./sss.js"
+  },
   "dependencies": {
     "connect": "*",
     "serve-static": "*"
